@@ -4,8 +4,11 @@ Collection of different Roadmaps for Software Developers
 
 ## [Web Developer](https://github.com/kamranahmedse/developer-roadmap)
 
-### [NodeJS Developer](https://github.com/aliyr/Nodejs-Developer-Roadmap)
+### Backend
+1. [NodeJS Developer](https://github.com/aliyr/Nodejs-Developer-Roadmap)
 
-### [Angular Developer](https://github.com/sulco/angular-developer-roadmap)
+### Front End
+1. [Angular Developer](https://github.com/sulco/angular-developer-roadmap)
+2. [React Developer](https://github.com/adam-golab/react-developer-roadmap)
 
 ## [Game Developer](https://github.com/utilForever/game-developer-roadmap)
